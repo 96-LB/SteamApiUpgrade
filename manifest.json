@@ -1,0 +1,9 @@
+{
+    "name": "SteamApiUpgrade",
+    "description": "Updates the Steamworks SDK used by the game to allow for more features, such as the Steam timeline API.",
+    "version_number": "0.0.1",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ],
+    "website_url": ""
+}
